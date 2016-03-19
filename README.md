@@ -31,7 +31,7 @@ This application is developed for learning Test Driven Development in Python.
 
 ## Other Tools Used
 
-1. Selenium (Automated Browser Testing) [**http://www.seleniumhq.org/**](http://www.seleniumhq.org/) [Selenium is used along with Jenkins in a Grid Setup]
+1. Selenium (Automated Browser Testing) [**http://www.seleniumhq.org/**](http://www.seleniumhq.org/)
 
 
 Hope you will like the application.
